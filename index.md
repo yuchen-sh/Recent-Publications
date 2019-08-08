@@ -20,9 +20,6 @@
 
  
 
-<div style="text-align:left">
-     <a href="#top"><input type="button" value="back to top" /></a>
-</div>
 
 ## <span id="j8"><font color='darkblue' face="Georgia">PATENTS</font></span>
 * "A Data Collection Method of Internet of Vehicles in the Big Data Era", issued May. 2019, (CN Patent No.: CN105978883B).  
@@ -34,6 +31,9 @@
 * "A Lightweight Security Synchronization Method in Smart Sensor Networks", (Application Patent No.: 201510703427.2).
 
 
+<div style="text-align:left">
+     <a href="#top"><input type="button" value="back to top" /></a>
+</div>
 
 
 
