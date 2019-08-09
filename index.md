@@ -1,6 +1,6 @@
 
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span>
-* Y. Liu, Qiang Hu and D. Blough, “Joint Path-Network Level Reconfiguration for mmWave Backhaul Survivability in Urban Environments”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
+* Y. Liu, Q. Hu and D. Blough, “Joint Path-Network Level Reconfiguration for mmWave Backhaul Survivability in Urban Environments”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, “Optimal Access Point Placement in Multi-AP mmWave WLANs”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 
