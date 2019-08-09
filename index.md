@@ -1,8 +1,10 @@
 
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span>
-* Y. Liu and D. Blough, “Joint Path-Network Level Reconfiguration for mmWave Backhaul Survivability in Urban Environments”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
+* Y. Liu, Qiang Hu and D. Blough, “Joint Path-Network Level Reconfiguration for mmWave Backhaul Survivability in Urban Environments”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 
-* Y. Liu and D. Blough, “Optimal Access Point Placement in Multi-AP mmWave WLANs”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
+* Y. Liu, Y. Jian, R. Sivakumar and D. Blough, “Optimal Access Point Placement in Multi-AP mmWave WLANs”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
+
+* Y. Liu and D. Blough, "Technical report for grid-based shadowing search method", (available at: http://blough.ece.gatech.edu/TR-Multi-AP-indoor.pdf), 2019.
 
 * Y. Jian, M. Agarwal, Y. Liu, D. Blough and R. Sivakumar, "Poster: Hawkeye - Predictive Positioning of a Ceiling-Mounted Mobile APin mmWave WLANs for Maximizing Line-of-sight", ACM International Conference on Mobile Computing and Networking (MobiCom), 2019.
 
@@ -11,6 +13,9 @@
 * Q. Hu, Y. Liu, Y. Yan, and D. Blough, "End-to-end Simulation of mmWave Out-of-band Backhaul Networks in ns-3" Proc. of the Workshop on Next-Generation Wireless with ns-3, 2019.
 
 * Y. Liu, Q. Hu, and D. Blough, “Blockage Avoidance in Relay Paths for Roadside mmWave Backhaul Networks”, Proc. of IEEE Int'l Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), 2018.
+
+* Y. Liu, Q. Hu and D. Blough, “Technical Report for Blockage Type Detection Process”, (available at:
+http://blough.ece.gatech.edu/BTDTechReport.pdf), 2018.
 
 * Y Liu, A Zhang, S Li, J Tang, and J Li, “A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network [J]”, International Journal of Satellite Communications & Networking. 2017, DOI: 10.1002/sat.1179.
 
