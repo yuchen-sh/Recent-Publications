@@ -1,5 +1,13 @@
 
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span>
+*	Y. Liu and D. Blough, “Blockage Robustness in Access Point Association for mmWave Wireless LANs with Mobility”, Proc. of IEEE International Conference on Local Computer Networks, 2020.
+
+*	Y. Liu, Y. Jian, R. Sivakumar, and D. Blough, "On the Potential Benefits of Mobile Access Points in mmWave Wireless LANs," Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2020.
+
+*	Y. Jian, M. Agarwal, S. Venkateswaran, Y. Liu, R. Sivakumar and D. Blough, “WiMove: Toward Infrastructure Mobility in mmWave WiFi”, ACM International Symposium on Mobility Management and Wireless Access (MobiWac), 2020.
+
+*	Y. Jian, Y. Liu, S. Venkateswaran, D. Blough, and R. Sivakumar, “A Quantitative Exploration of Access Point Mobility for mmWave WiFi Networks”, Proc. of IEEE International Conference on Communications (ICC), 2020.
+
 * Y. Liu, Q. Hu and D. Blough, “Joint Path-Network Level Reconfiguration for mmWave Backhaul Survivability in Urban Environments”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, “Optimal Access Point Placement in Multi-AP mmWave WLANs”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
