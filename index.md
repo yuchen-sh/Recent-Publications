@@ -1,8 +1,8 @@
 
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span>
-* Y. Liu and D. Blough, "Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks ," Computer Communications, 2020.
+* Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks** ," Computer Communications, 2020.
 
-*	Y. Liu and D. Blough, “Blockage Robustness in Access Point Association for mmWave Wireless LANs with Mobility”, Proc. of IEEE International Conference on Local Computer Networks, 2020.
+*	Y. Liu and D. Blough, “**Blockage Robustness in Access Point Association for mmWave Wireless LANs with Mobility**”, Proc. of IEEE International Conference on Local Computer Networks, 2020.
 
 *	Y. Liu, Y. Jian, R. Sivakumar, and D. Blough, "On the Potential Benefits of Mobile Access Points in mmWave Wireless LANs," Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2020.
 
