@@ -1,5 +1,7 @@
 
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span>
+* A. Deng, Y. Liu, and D. Blough, “**Maximizing Coverage for mmWave WLANs with Dedicated Reflectors**”, Proc. of IEEE International Conference on Communications (ICC), 2021.
+
 * Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks** ," Computer Communications, 2020.
 
 *	Y. Liu and D. Blough, “**Blockage Robustness in Access Point Association for mmWave Wireless LANs with Mobility**”, Proc. of IEEE International Conference on Local Computer Networks, 2020.
