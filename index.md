@@ -1,5 +1,5 @@
 
-## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS ([Google scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=B0m2kgQAAAAJ&pagesize=80))</font></span>
+## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS ([Google scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=B0m2kgQAAAAJ&pagesize=80)</font></span>
 * Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks** ," Computer Networks, 2021.
 
 * Y. Liu, S. Crisp and D. Blough, “**Performance Study of Statistical and Deterministic Channel Models for mmWave Wi-Fi Networks in ns-3**”, Proc. of ACM Workshop on ns-3, 2021.
