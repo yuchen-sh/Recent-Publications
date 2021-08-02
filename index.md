@@ -1,6 +1,6 @@
 
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span>
- ([Google scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=B0m2kgQAAAAJ&pagesize=80))
+ ([Google Scholar Profile](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=B0m2kgQAAAAJ&pagesize=80))
  
 * Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks** ," Computer Networks, 2021.
 
