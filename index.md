@@ -2,7 +2,7 @@
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span>
  ([Google Scholar Profile](https://scholar.google.com/citations?user=B0m2kgQAAAAJ&hl=en))
  
-# JOURNAL PUBLICATIONS 
+### JOURNAL PUBLICATIONS 
  
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021, to appear.
  
@@ -10,11 +10,11 @@
 
 * Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks** ," Computer Communications, 2020.
 
-* Y Liu, A Zhang, S Li, J Tang, and J Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking. 2017.
+* Y. Liu, A. Zhang, S Li, J Tang, and J Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking. 2017.
 
 * J. Wen, W. Liu, Y. Huang, Y. Liu, Y. Luo, G. Peng, and T. Wang, “**Spun-Related Effects on Optical Properties of Spun Silica Optical Fibers**”, Journal of Lightwave Technology (JLT), 2015.
 
-# CONFERENCE PUBLICATIONS 
+### CONFERENCE PUBLICATIONS 
 
 * Y. Liu, S. Crisp and D. Blough, “**Performance Study of Statistical and Deterministic Channel Models for mmWave Wi-Fi Networks in ns-3**”, Proc. of ACM Workshop on ns-3, 2021.
 
