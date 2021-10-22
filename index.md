@@ -51,7 +51,7 @@
 
 ### TECHNICAL REPORTS AND PREPRINTS
 
-* Y. Liu and D. Blough, “Analysis of Secondary Effects in Roadside mmWave Backhaul Networks”, arXiv preprint: arXiv:2010.10479 \[eess.SY\], 2020.
+* Y. Liu and D. Blough, “**Analysis of Secondary Effects in Roadside mmWave Backhaul Networks**”, arXiv preprint: arXiv:2010.10479 \[eess.SY\], 2020.
 
 * Y. Liu, Q. Hu and D. Blough, “**Blockage Type Detection Process in Triangular-wave Topology for mmWave Wireless Backhaul**”, arXiv preprint: arXiv:2010.08430 \[cs.NI\], 2018.
 
