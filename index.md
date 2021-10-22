@@ -60,7 +60,8 @@
  
 
 
-## <span id="j8"><font color='darkblue' face="Georgia">PATENTS</font></span>
+<!-- ## <span id="j8"><font color='darkblue' face="Georgia">PATENTS</font></span> -->
+### PATENTS
 * "**A Data Collection Method of Internet of Vehicles**", issued May. 2019, (CN Patent No.: CN105978883B).  
 
 * "**The Smart USB-Key Detection System based on Sandbox Mechanism**”, issued Dec. 2017, (CN Patent No.: CN104700028B).
