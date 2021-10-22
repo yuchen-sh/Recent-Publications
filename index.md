@@ -2,7 +2,7 @@
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span>
  ([Google Scholar Profile](https://scholar.google.com/citations?user=B0m2kgQAAAAJ&hl=en))
  
-* Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021.
+* Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021, to appear.
  
 * Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks, 2021.
 
@@ -44,7 +44,7 @@
 
 
 ## <span id="j8"><font color='darkblue' face="Georgia">PATENTS</font></span>
-* "**A Data Collection Method of Internet of Vehicles in the Big Data Era**", issued May. 2019, (CN Patent No.: CN105978883B).  
+* "**A Data Collection Method of Internet of Vehicles**", issued May. 2019, (CN Patent No.: CN105978883B).  
 
 * "**The Smart USB-Key Detection System based on Sandbox Mechanism**”, issued Dec. 2017, (CN Patent No.: CN104700028B).
 
