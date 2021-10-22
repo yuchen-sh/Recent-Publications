@@ -6,9 +6,9 @@
  
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021, to appear.
  
-* Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks, 2021.
+* Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks, Elsevier, 2021.
 
-* Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks** ," Computer Communications, 2020.
+* Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks** ," Computer Communications, Elsevier, 2020.
 
 * Y. Liu, A. Zhang, S Li, J Tang, and J Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking. 2017.
 
@@ -41,10 +41,19 @@
 
 * Y. Liu, Q. Hu, and D. Blough, “**Blockage Avoidance in Relay Paths for Roadside mmWave Backhaul Networks**”, Proc. of IEEE Int'l Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), 2018.
 
-* Y. Liu, Q. Hu and D. Blough, “**Blockage Type Detection Process in Triangular-wave Topology for mmWave Wireless Backhaul**”, arXiv preprint arXiv:2010.08430, 2018.
+
+* Y. Liu, A. Zhang, J. Li, and J. Wu, “**An Anonymous Distributed Key Management System based on CL-PKC for Space Information Network**”, Proc. of IEEE International Conference on Communications (ICC), 2016.
+
+*	W. Zhao, A. Zhang, J. Li, X. Wu, and Y. Liu, “**Analysis and Design of an Authentication Protocol for Space Information Network**”, IEEE Military Communications Conference (MilCom), 2016.
+
+*	X. Wu, A. Zhang, J. Li, W. Zhao, and Y. Liu, “**A Lightweight Authentication and Key Agreement Scheme for Mobile Satellite Communication Systems**”, Proc. of International Conference on Information Security and Cryptology, Springer, 2016.
 
 
-* Y Liu, A Zhang, J Li, and J Wu, “**An Anonymous Distributed Key Management System based on CL-PKC for Space Information Network**”, Proc. of IEEE International Conference on Communications (ICC), 2016.
+### TECHNICAL REPORTS AND PREPRINTS
+
+* Y. Liu and D. Blough, “Analysis of Secondary Effects in Roadside mmWave Backhaul Networks”, arXiv preprint: arXiv:2010.10479 \[eess.SY\], 2020.
+
+* Y. Liu, Q. Hu and D. Blough, “**Blockage Type Detection Process in Triangular-wave Topology for mmWave Wireless Backhaul**”, arXiv preprint: arXiv:2010.08430 \[cs.NI\], 2018.
 
 &nbsp;&nbsp;&nbsp;(You can get the full publication list [here](https://scholar.google.com/citations?user=B0m2kgQAAAAJ&hl=en))
 
