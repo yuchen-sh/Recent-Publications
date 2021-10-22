@@ -8,9 +8,9 @@
  
 * Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks, Elsevier, 2021.
 
-* Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks** ," Computer Communications, Elsevier, 2020.
+* Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks**", Computer Communications, Elsevier, 2020.
 
-* Y. Liu, A. Zhang, S Li, J Tang, and J Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking. 2017.
+* Y. Liu, A. Zhang, S Li, J Tang, and J Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking, 2017.
 
 * J. Wen, W. Liu, Y. Huang, Y. Liu, Y. Luo, G. Peng, and T. Wang, “**Spun-Related Effects on Optical Properties of Spun Silica Optical Fibers**”, Journal of Lightwave Technology (JLT), 2015.
 
