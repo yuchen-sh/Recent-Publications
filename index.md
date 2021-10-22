@@ -2,15 +2,23 @@
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span>
  ([Google Scholar Profile](https://scholar.google.com/citations?user=B0m2kgQAAAAJ&hl=en))
  
+# JOURNAL PUBLICATIONS 
+ 
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021, to appear.
  
 * Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks, 2021.
 
+* Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks** ," Computer Communications, 2020.
+
+* Y Liu, A Zhang, S Li, J Tang, and J Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking. 2017.
+
+* J. Wen, W. Liu, Y. Huang, Y. Liu, Y. Luo, G. Peng, and T. Wang, “**Spun-Related Effects on Optical Properties of Spun Silica Optical Fibers**”, Journal of Lightwave Technology (JLT), 2015.
+
+# CONFERENCE PUBLICATIONS 
+
 * Y. Liu, S. Crisp and D. Blough, “**Performance Study of Statistical and Deterministic Channel Models for mmWave Wi-Fi Networks in ns-3**”, Proc. of ACM Workshop on ns-3, 2021.
 
 * A. Deng, Y. Liu, and D. Blough, “**Maximizing Coverage for mmWave WLANs with Dedicated Reflectors**”, Proc. of IEEE International Conference on Communications (ICC), 2021.
-
-* Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks** ," Computer Communications, 2020.
 
 *	Y. Liu and D. Blough, “**Blockage Robustness in Access Point Association for mmWave Wireless LANs with Mobility**”, Proc. of IEEE International Conference on Local Computer Networks, 2020.
 
@@ -24,6 +32,7 @@
 
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, “**Optimal Access Point Placement in Multi-AP mmWave WLANs**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 
+
 * Y. Jian, M. Agarwal, Y. Liu, D. Blough and R. Sivakumar, "Poster: **Hawkeye - Predictive Positioning of a Ceiling-Mounted Mobile AP in mmWave WLANs for Maximizing Line-of-sight**", ACM International Conference on Mobile Computing and Networking (MobiCom), 2019.
 
 * Y. Liu and D. Blough, “**Analysis of Blockage Effects on Roadside Relay-assisted mmWave Backhaul Networks**”, Proc. of IEEE International Conference on Communications (ICC), 2019.
@@ -34,7 +43,6 @@
 
 * Y. Liu, Q. Hu and D. Blough, “**Blockage Type Detection Process in Triangular-wave Topology for mmWave Wireless Backhaul**”, arXiv preprint arXiv:2010.08430, 2018.
 
-* Y Liu, A Zhang, S Li, J Tang, and J Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking. 2017, DOI: 10.1002/sat.1179.
 
 * Y Liu, A Zhang, J Li, and J Wu, “**An Anonymous Distributed Key Management System based on CL-PKC for Space Information Network**”, Proc. of IEEE International Conference on Communications (ICC), 2016.
 
