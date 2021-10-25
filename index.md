@@ -3,6 +3,8 @@
  ([Google Scholar Profile](https://scholar.google.com/citations?user=B0m2kgQAAAAJ&hl=en))
  
 ### JOURNAL PUBLICATIONS 
+
+* Y. Jian, C. Tai, S. Venkateswaran, M. Agarwal, Y. Liu, D. Blough, R. Sivakumar, "**Algorithms for Addressing Line-of-Sight Issues in mmWave Wi-Fi Systems using Access Point Mobility**", Journal of Parallel and Distributed Computing, Elsevier, 2021, to appear.
  
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021, to appear.
  
