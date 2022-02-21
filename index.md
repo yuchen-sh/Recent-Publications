@@ -4,9 +4,9 @@
  
 ### JOURNAL PUBLICATIONS 
 
-* Y. Jian, C. Tai, S. Venkateswaran, M. Agarwal, Y. Liu, D. Blough, R. Sivakumar, "**Algorithms for Addressing Line-of-Sight Issues in mmWave Wi-Fi Systems using Access Point Mobility**", Journal of Parallel and Distributed Computing, Elsevier, 2021, to appear.
+* Y. Jian, C. Tai, S. Venkateswaran, M. Agarwal, Y. Liu, D. Blough, R. Sivakumar, "**Algorithms for Addressing Line-of-Sight Issues in mmWave Wi-Fi Systems using Access Point Mobility**", Journal of Parallel and Distributed Computing, Elsevier, 2022.
  
-* Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021, to appear.
+* Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021.
  
 * Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks, Elsevier, 2021.
 
@@ -52,6 +52,7 @@
 
 
 ### TECHNICAL REPORTS AND PREPRINTS
+* Q. Hu, Y. Liu, Y. Yan, M. Liu, J. Zheng, and D. Blough, "**Towards the Maximum Traffic Demand and Throughput Supported by Relay-Assisted mmWave Backhaul Networks**", arXiv preprint: arXiv:2202.05908, 2022.
 
 * Y. Liu and D. Blough, “**Analysis of Secondary Effects in Roadside mmWave Backhaul Networks**”, arXiv preprint: arXiv:2010.10479 \[eess.SY\], 2020.
 
