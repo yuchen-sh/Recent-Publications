@@ -52,6 +52,8 @@
 
 
 ### TECHNICAL REPORTS AND PREPRINTS
+* Q. Hu, Y. Liu, Y. Yan, M. Liu, J. Zheng, and D. Blough, "**An Efficient Distributed Scheduling Algorithm for Relay-Assisted mmWave Backhaul Networks**", arXiv preprint: arXiv:2202.07872, 2022.
+
 * Q. Hu, Y. Liu, Y. Yan, M. Liu, J. Zheng, and D. Blough, "**Towards the Maximum Traffic Demand and Throughput Supported by Relay-Assisted mmWave Backhaul Networks**", arXiv preprint: arXiv:2202.05908, 2022.
 
 * Y. Liu and D. Blough, “**Analysis of Secondary Effects in Roadside mmWave Backhaul Networks**”, arXiv preprint: arXiv:2010.10479 \[eess.SY\], 2020.
