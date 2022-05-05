@@ -15,6 +15,7 @@
 * Y. Liu, A. Zhang, S. Li, J. Tang, and J. Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking, 2017.
 
 * J. Wen, W. Liu, Y. Huang, Y. Liu, Y. Luo, G. Peng, and T. Wang, “**Spun-Related Effects on Optical Properties of Spun Silica Optical Fibers**”, Journal of Lightwave Technology (JLT), 2015.
+<br />
 
 ### CONFERENCE PUBLICATIONS 
 
@@ -30,7 +31,7 @@
 
 *	Y. Jian, Y. Liu, S. Venkateswaran, D. Blough, and R. Sivakumar, “**A Quantitative Exploration of Access Point Mobility for mmWave WiFi Networks**”, Proc. of IEEE International Conference on Communications (ICC), 2020.
 
-* Y. Liu, Q. Hu and D. Blough, “**Joint Path-Network Level Reconfiguration for mmWave Backhaul Survivability in Urban Environments**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
+* Y. Liu, Q. Hu and D. Blough, “**Joint link-level and network-level reconfiguration for mmWave backhaul survivability in urban environments**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, “**Optimal Access Point Placement in Multi-AP mmWave WLANs**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 
@@ -49,6 +50,7 @@
 *	W. Zhao, A. Zhang, J. Li, X. Wu, and Y. Liu, “**Analysis and Design of an Authentication Protocol for Space Information Network**”, IEEE Military Communications Conference (MilCom), 2016.
 
 *	X. Wu, A. Zhang, J. Li, W. Zhao, and Y. Liu, “**A Lightweight Authentication and Key Agreement Scheme for Mobile Satellite Communication Systems**”, Proc. of International Conference on Information Security and Cryptology, Springer, 2016.
+<br />
 
 
 ### TECHNICAL REPORTS AND PREPRINTS
@@ -61,7 +63,7 @@
 * Y. Liu, Q. Hu and D. Blough, “**Blockage Type Detection Process in Triangular-wave Topology for mmWave Wireless Backhaul**”, arXiv preprint: arXiv:2010.08430 \[cs.NI\], 2018.
 
 &nbsp;&nbsp;&nbsp;(You can get the full publication list [here](https://scholar.google.com/citations?user=B0m2kgQAAAAJ&hl=en))
-
+<br />
  
 
 
@@ -74,7 +76,7 @@
 * "**Selection Method of P2P Sensor Network Security Service in Social Networks**", (Appication Patent No.: 201610080457.7)
 
 * "**A Lightweight Security Synchronization Method in Smart Sensor Networks**", (Application Patent No.: 201510703427.2).
-
+<br />
 
 <div style="text-align:left">
      <a href="#top"><input type="button" value="back to top" /></a>
