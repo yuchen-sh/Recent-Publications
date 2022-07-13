@@ -19,13 +19,13 @@
 
 ### CONFERENCE PUBLICATIONS 
 
-* A. Deng, Y. Liu, and D. Blough, “**Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs**”, Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, to appear, 2022.
+* A. Deng, Y. Liu, and D. Blough, “**Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs**”, Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, to appear, 2022. (**Best Paper Award**)
 
 * Y. Liu, S. Crisp and D. Blough, “**Performance Study of Statistical and Deterministic Channel Models for mmWave Wi-Fi Networks in ns-3**”, Proc. of ACM Workshop on ns-3, 2021.
 
 * A. Deng, Y. Liu, and D. Blough, “**Maximizing Coverage for mmWave WLANs with Dedicated Reflectors**”, Proc. of IEEE International Conference on Communications (ICC), 2021.
 
-*	Y. Liu and D. Blough, “**Blockage Robustness in Access Point Association for mmWave Wireless LANs with Mobility**”, Proc. of IEEE International Conference on Local Computer Networks, 2020. (**Best Paper Finalist**)
+*	Y. Liu and D. Blough, “**Blockage Robustness in Access Point Association for mmWave Wireless LANs with Mobility**”, Proc. of IEEE International Conference on Local Computer Networks, 2020. (**Best Paper Award finalist**)
 
 *	Y. Liu, Y. Jian, R. Sivakumar, and D. Blough, "**On the Potential Benefits of Mobile Access Points in mmWave Wireless LANs**," Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2020.
 
@@ -33,7 +33,7 @@
 
 *	Y. Jian, Y. Liu, S. Venkateswaran, D. Blough, and R. Sivakumar, “**A Quantitative Exploration of Access Point Mobility for mmWave WiFi Networks**”, Proc. of IEEE International Conference on Communications (ICC), 2020.
 
-* Y. Liu, Q. Hu and D. Blough, “**Joint Link-level and Network-level Reconfiguration for mmWave Backhaul Survivability in Urban Environments**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019. (**Best Paper Finalist**)
+* Y. Liu, Q. Hu and D. Blough, “**Joint Link-level and Network-level Reconfiguration for mmWave Backhaul Survivability in Urban Environments**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019. (**Best Paper Award finalist**)
 
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, “**Optimal Access Point Placement in Multi-AP mmWave WLANs**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 
