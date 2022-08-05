@@ -71,13 +71,13 @@
 
 <!-- ## <span id="j8"><font color='darkblue' face="Georgia">PATENTS</font></span> -->
 ### PATENTS
-* "**A Data Collection Method of Internet of Vehicles**", issued May. 2019, (CN Patent No.: CN105978883B).  
+* "**A Secure Data Collection Method for Internet of Vehicles**", issued May. 2019, (CN Patent No.: CN105978883B).  
 
-* "**The Smart USB-Key Detection System based on Sandbox Mechanism**”, issued Dec. 2017, (CN Patent No.: CN104700028B).
+* "**Smart USB-Key Detection System based on Sandbox Mechanism**”, issued Dec. 2017, (CN Patent No.: CN104700028B).
 
 * "**Selection Method of P2P Sensor Network Security Service in Social Networks**", (Appication Patent No.: 201610080457.7)
 
-* "**A Lightweight Security Synchronization Method in Smart Sensor Networks**", (Application Patent No.: 201510703427.2).
+* "**A Lightweight Synchronization Method in Smart Sensor Networks**", (Application Patent No.: 201510703427.2).
 <br />
 
 <div style="text-align:left">
