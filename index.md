@@ -1,6 +1,6 @@
 <!-- 
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span> -->
- ([Google Scholar Profile](https://scholar.google.com/citations?user=B0m2kgQAAAAJ&hl=en))
+<!--  ([Google Scholar Profile](https://scholar.google.com/citations?user=B0m2kgQAAAAJ&hl=en)) -->
  
 ### JOURNAL PUBLICATIONS 
 
