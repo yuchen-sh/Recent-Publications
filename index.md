@@ -2,7 +2,7 @@
 ## <span id="j7"><font color='darkblue' face="Georgia">RECENT PUBLICATIONS</font></span> -->
 <!--  ([Google Scholar Profile](https://scholar.google.com/citations?user=B0m2kgQAAAAJ&hl=en)) -->
  
-### JOURNAL PUBLICATIONS 
+<!-- ### JOURNAL PUBLICATIONS 
 
 * Y. Jian, C. Tai, S. Venkateswaran, M. Agarwal, Y. Liu, D. Blough, R. Sivakumar, "**Algorithms for Addressing Line-of-Sight Issues in mmWave Wi-Fi Systems using Access Point Mobility**", Journal of Parallel and Distributed Computing, Elsevier, 2022.
  
@@ -15,28 +15,36 @@
 * Y. Liu, A. Zhang, S. Li, J. Tang, and J. Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking, 2017.
 
 * J. Wen, W. Liu, Y. Huang, Y. Liu, Y. Luo, G. Peng, and T. Wang, “**Spun-Related Effects on Optical Properties of Spun Silica Optical Fibers**”, Journal of Lightwave Technology (JLT), 2015.
-<br /> <br />
+<br /> <br /> -->
 
-### CONFERENCE PUBLICATIONS 
+### RECENT PUBLICATIONS 
+* Y. Liu and D. Blough, “**Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs**”, Proc. of ACM International Symposium on Mobility Management and Wireless Access, to appear, 2022.
 
 * A. Deng, Y. Liu, and D. Blough, “**Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs**”, Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, to appear, 2022. (**<font color='red'>Best Paper Award</font>**)
 
+* Y. Jian, C. Tai, S. Venkateswaran, M. Agarwal, Y. Liu, D. Blough, R. Sivakumar, "**Algorithms for Addressing Line-of-Sight Issues in mmWave Wi-Fi Systems using Access Point Mobility**", Journal of Parallel and Distributed Computing, Elsevier, 2022.
+
 * Y. Liu, S. Crisp and D. Blough, “**Performance Study of Statistical and Deterministic Channel Models for mmWave Wi-Fi Networks in ns-3**”, Proc. of ACM Workshop on ns-3, 2021.
 
+* Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021.
+
+* Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks \[J\], Elsevier, 2021.
+
 * A. Deng, Y. Liu, and D. Blough, “**Maximizing Coverage for mmWave WLANs with Dedicated Reflectors**”, Proc. of IEEE International Conference on Communications (ICC), 2021.
+
+* Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks**", Computer Communications \[J\], Elsevier, 2020.
 
 *	Y. Liu and D. Blough, “**Blockage Robustness in Access Point Association for mmWave Wireless LANs with Mobility**”, Proc. of IEEE International Conference on Local Computer Networks, 2020. (**<font color='red'>Best Paper Award finalist</font>**)
 
 *	Y. Liu, Y. Jian, R. Sivakumar, and D. Blough, "**On the Potential Benefits of Mobile Access Points in mmWave Wireless LANs**," Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2020.
 
-*	Y. Jian, M. Agarwal, S. Venkateswaran, Y. Liu, R. Sivakumar and D. Blough, “**WiMove: Toward Infrastructure Mobility in mmWave WiFi**”, ACM International Symposium on Mobility Management and Wireless Access (MobiWac), 2020.
+*	Y. Jian, M. Agarwal, S. Venkateswaran, Y. Liu, R. Sivakumar and D. Blough, “**WiMove: Toward Infrastructure Mobility in mmWave WiFi**”, Proc. of ACM International Symposium on Mobility Management and Wireless Access (MobiWac), 2020.
 
 *	Y. Jian, Y. Liu, S. Venkateswaran, D. Blough, and R. Sivakumar, “**A Quantitative Exploration of Access Point Mobility for mmWave WiFi Networks**”, Proc. of IEEE International Conference on Communications (ICC), 2020.
 
 * Y. Liu, Q. Hu and D. Blough, “**Joint Link-level and Network-level Reconfiguration for mmWave Backhaul Survivability in Urban Environments**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019. (**<font color='red'>Best Paper Award finalist</font>**)
 
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, “**Optimal Access Point Placement in Multi-AP mmWave WLANs**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
-
 
 * Y. Jian, M. Agarwal, Y. Liu, D. Blough and R. Sivakumar, "Poster: **Hawkeye - Predictive Positioning of a Ceiling-Mounted Mobile AP in mmWave WLANs for Maximizing Line-of-sight**", ACM International Conference on Mobile Computing and Networking (MobiCom), 2019.
 
@@ -46,12 +54,15 @@
 
 * Y. Liu, Q. Hu, and D. Blough, “**Blockage Avoidance in Relay Paths for Roadside mmWave Backhaul Networks**”, Proc. of IEEE Int'l Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), 2018.
 
+* Y. Liu, A. Zhang, S. Li, J. Tang, and J. Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking, 2017.
 
 * Y. Liu, A. Zhang, J. Li, and J. Wu, “**An Anonymous Distributed Key Management System based on CL-PKC for Space Information Network**”, Proc. of IEEE International Conference on Communications (ICC), 2016.
 
-*	W. Zhao, A. Zhang, J. Li, X. Wu, and Y. Liu, “**Analysis and Design of an Authentication Protocol for Space Information Network**”, IEEE Military Communications Conference (MilCom), 2016.
+*	W. Zhao, A. Zhang, J. Li, X. Wu, and Y. Liu, “**Analysis and Design of an Authentication Protocol for Space Information Network**”, Proc. of IEEE Military Communications Conference (MilCom), 2016.
 
 *	X. Wu, A. Zhang, J. Li, W. Zhao, and Y. Liu, “**A Lightweight Authentication and Key Agreement Scheme for Mobile Satellite Communication Systems**”, Proc. of International Conference on Information Security and Cryptology, Springer, 2016.
+
+* J. Wen, W. Liu, Y. Huang, Y. Liu, Y. Luo, G. Peng, and T. Wang, “**Spun-Related Effects on Optical Properties of Spun Silica Optical Fibers**”, Journal of Lightwave Technology (JLT), 2015.
 <br /> <br />
 
 
