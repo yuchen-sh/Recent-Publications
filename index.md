@@ -18,6 +18,8 @@
 <br /> <br /> -->
 
 ### PUBLICATIONS 
+* Y. Liu and D. Blough, “**Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs**”, Proc. of ACM International Symposium on Mobility Management and Wireless Access, 2022. (**<font color='red'>Best Paper Award</font>**)
+
 * A. Deng, Y. Liu, and D. Blough, “**Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs**”, Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2022. (**<font color='red'>Best Paper Award</font>**)
 
 * Y. Jian, C. Tai, S. Venkateswaran, M. Agarwal, Y. Liu, D. Blough, R. Sivakumar, "**Algorithms for Addressing Line-of-Sight Issues in mmWave Wi-Fi Systems using Access Point Mobility**", Journal of Parallel and Distributed Computing, Elsevier, 2022.
