@@ -18,6 +18,8 @@
 <br /> <br /> -->
 
 ### PUBLICATIONS 
+* X. Li, M. Chen, Z. Zhang, D. Liu, Y. Liu, and S. Mao, "**Joint Optimization of Sensing and Communications in Vehicular Networks: A Graph Neural Network-based Approach**", Proc. of IEEE International Conference on Communications (ICC), to appear, 2023.
+
 * Y. Liu and D. Blough, “**Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs**”, Proc. of ACM International Symposium on Mobility Management and Wireless Access, 2022. (**<font color='red'>Best Paper Award</font>**)
 
 * A. Deng, Y. Liu, and D. Blough, “**Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs**”, Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2022. (**<font color='red'>Best Paper Award</font>**)
