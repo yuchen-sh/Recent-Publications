@@ -68,7 +68,9 @@
 <br /> <br />
 
 
-### TECHNICAL REPORTS AND PREPRINTS
+### PREPRINTS AND TECHNICAL REPORTS
+* M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023.
+
 * Q. Hu, Y. Liu, Y. Yan, M. Liu, J. Zheng, and D. Blough, "**An Efficient Distributed Scheduling Algorithm for Relay-Assisted mmWave Backhaul Networks**", arXiv preprint: arXiv:2202.07872, 2022.
 
 * Q. Hu, Y. Liu, Y. Yan, M. Liu, J. Zheng, and D. Blough, "**Towards the Maximum Traffic Demand and Throughput Supported by Relay-Assisted mmWave Backhaul Networks**", arXiv preprint: arXiv:2202.05908, 2022.
