@@ -21,6 +21,8 @@
 * M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023.
 
 ### PUBLICATIONS 
+* A. Ding, G. Li, X. Yi and Y. Liu, "**IVSign: Interpretable Vulnerability Signature via Code Embedding and Static Analysis**", Proc. of IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Workshop on Data-Centric Dependability and Security, to appear, 2023.
+
 * X. Li, M. Chen, Z. Zhang, D. Liu, Y. Liu, and S. Mao, "**Joint Optimization of Sensing and Communications in Vehicular Networks: A Graph Neural Network-based Approach**", Proc. of IEEE International Conference on Communications (ICC), to appear, 2023.
 
 * Y. Liu and D. Blough, “**Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs**”, Proc. of ACM International Symposium on Mobility Management and Wireless Access, 2022. (**<font color='red'>Best Paper Award</font>**)
