@@ -8,13 +8,13 @@
  
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021.
  
-* Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks, Elsevier, 2021.
+* Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**" [J], Computer Networks, Elsevier, 2021.
 
 * Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks**", Computer Communications, Elsevier, 2020.
 
 * Y. Liu, A. Zhang, S. Li, J. Tang, and J. Li, “**A Lightweight Authentication Scheme based on Self-updating Strategy for Space Information Network**”, International Journal of Satellite Communications & Networking, 2017.
 
-* J. Wen, W. Liu, Y. Huang, Y. Liu, Y. Luo, G. Peng, and T. Wang, “**Spun-Related Effects on Optical Properties of Spun Silica Optical Fibers**”, Journal of Lightwave Technology (JLT), 2015.
+* J. Wen, W. Liu, Y. Huang, Y. Liu, Y. Luo, G. Peng, and T. Wang, “**Spun-Related Effects on Optical Properties of Spun Silica Optical Fibers**” [J], Journal of Lightwave Technology (JLT), 2015.
 <br /> <br /> -->
 
 ### PREPRINTS
@@ -53,7 +53,7 @@
 
 * Y. Liu, S. Crisp and D. Blough, “**Performance Study of Statistical and Deterministic Channel Models for mmWave Wi-Fi Networks in ns-3**”, Proc. of ACM Workshop on ns-3, 2021.
 
-* Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking, 2021.
+* Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking \[J\], 2021.
 
 * Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks \[J\], Elsevier, 2021.
 
@@ -95,7 +95,7 @@
 
 *	X. Wu, A. Zhang, J. Li, W. Zhao, and Y. Liu, “**A Lightweight Authentication and Key Agreement Scheme for Mobile Satellite Communication Systems**”, Proc. of International Conference on Information Security and Cryptology, Springer, 2016.
 
-* J. Wen, W. Liu, Y. Huang, Y. Liu, Y. Luo, G. Peng, and T. Wang, “**Spun-Related Effects on Optical Properties of Spun Silica Optical Fibers**”, Journal of Lightwave Technology (JLT), 2015.
+* J. Wen, W. Liu, Y. Huang, Y. Liu, Y. Luo, G. Peng, and T. Wang, “**Spun-Related Effects on Optical Properties of Spun Silica Optical Fibers**”, Journal of Lightwave Technology (JLT) \[J\], 2015.
 <br /> <br />
 
 
