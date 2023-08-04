@@ -47,7 +47,7 @@
 
 * A. Deng, Y. Liu, and D. Blough, “**Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs**”, Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2022. (**<font color='red'>Best Paper Award</font>**)
 
-* Y. Jian, C. Tai, S. Venkateswaran, M. Agarwal, Y. Liu, D. Blough, R. Sivakumar, "**Algorithms for Addressing Line-of-Sight Issues in mmWave Wi-Fi Systems using Access Point Mobility**", Journal of Parallel and Distributed Computing, Elsevier, 2022.
+* Y. Jian, C. Tai, S. Venkateswaran, M. Agarwal, Y. Liu, D. Blough, R. Sivakumar, "**Algorithms for Addressing Line-of-Sight Issues in mmWave Wi-Fi Systems using Access Point Mobility**", Journal of Parallel and Distributed Computing, \[J\], Elsevier, 2022.
 
 ### <font color='#0000dd'>Year 2021</font>
 
