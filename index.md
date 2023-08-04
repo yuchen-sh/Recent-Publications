@@ -25,6 +25,14 @@
 * M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023.
 
 ### PUBLICATIONS 
+## Year 2023
+
+* Z. Li, M. Chen, G. Li, and Y. Liu "**Spatial-Temporal Attention-based mmWave Link Quality Prediction under Dynamic Blockages**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023.
+
+* Y. Zhu, S. Wang, Y. Liu, and C. Yin "**Trajectory Design for 3D UAV Localization in UAV Based Network**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023.
+
+* H. Yu, M. Chen, Z. Yang, and Y. Liu "**Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023.
+
 * G. Li, Y. Zhao, W. Wei, and Y. Liu, "**Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats**", Proc. of IEEE International Conference on Smart Applications, Communications and Networking, to appear, 2023.
 
 * Y. Liu, M. Chen, D. Xu, Z. Yang and S. Zhao, "**E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs**", Proc. of International Conference on Computer Communications and Networks (ICCCN), to appear, 2023. (**<font color='red'>Best Paper Award</font>**)
