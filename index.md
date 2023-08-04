@@ -41,11 +41,15 @@
 
 * X. Li, M. Chen, Z. Zhang, D. Liu, Y. Liu, and S. Mao, "**Joint Optimization of Sensing and Communications in Vehicular Networks: A Graph Neural Network-based Approach**", Proc. of IEEE International Conference on Communications (ICC), to appear, 2023.
 
+### <font color='#0000dd'>Year 2022</font>
+
 * Y. Liu and D. Blough, “**Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs**”, Proc. of ACM International Symposium on Mobility Management and Wireless Access, 2022. (**<font color='red'>Best Paper Award</font>**)
 
 * A. Deng, Y. Liu, and D. Blough, “**Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs**”, Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2022. (**<font color='red'>Best Paper Award</font>**)
 
 * Y. Jian, C. Tai, S. Venkateswaran, M. Agarwal, Y. Liu, D. Blough, R. Sivakumar, "**Algorithms for Addressing Line-of-Sight Issues in mmWave Wi-Fi Systems using Access Point Mobility**", Journal of Parallel and Distributed Computing, Elsevier, 2022.
+
+### <font color='#0000dd'>Year 2021</font>
 
 * Y. Liu, S. Crisp and D. Blough, “**Performance Study of Statistical and Deterministic Channel Models for mmWave Wi-Fi Networks in ns-3**”, Proc. of ACM Workshop on ns-3, 2021.
 
@@ -54,6 +58,8 @@
 * Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks \[J\], Elsevier, 2021.
 
 * A. Deng, Y. Liu, and D. Blough, “**Maximizing Coverage for mmWave WLANs with Dedicated Reflectors**”, Proc. of IEEE International Conference on Communications (ICC), 2021.
+
+### <font color='#0000dd'>Year 2020</font>
 
 * Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks**", Computer Communications \[J\], Elsevier, 2020.
 
@@ -65,6 +71,8 @@
 
 *	Y. Jian, Y. Liu, S. Venkateswaran, D. Blough, and R. Sivakumar, “**A Quantitative Exploration of Access Point Mobility for mmWave WiFi Networks**”, Proc. of IEEE International Conference on Communications (ICC), 2020.
 
+### <font color='#0000dd'>Year 2019</font>
+
 * Y. Liu, Q. Hu and D. Blough, “**Joint Link-level and Network-level Reconfiguration for mmWave Backhaul Survivability in Urban Environments**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019. (**<font color='red'>Best Paper Award finalist</font>**)
 
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, “**Optimal Access Point Placement in Multi-AP mmWave WLANs**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
@@ -74,6 +82,8 @@
 * Y. Liu and D. Blough, “**Analysis of Blockage Effects on Roadside Relay-assisted mmWave Backhaul Networks**”, Proc. of IEEE International Conference on Communications (ICC), 2019.
 
 * Q. Hu, Y. Liu, Y. Yan, and D. Blough, "**End-to-end Simulation of mmWave Out-of-band Backhaul Networks in ns-3**" Proc. of the Workshop on Next-Generation Wireless with ns-3, 2019.
+
+### <font color='#0000dd'>Year 2018 and Before</font>
 
 * Y. Liu, Q. Hu, and D. Blough, “**Blockage Avoidance in Relay Paths for Roadside mmWave Backhaul Networks**”, Proc. of IEEE Int'l Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), 2018.
 
