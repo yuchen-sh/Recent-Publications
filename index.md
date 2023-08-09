@@ -18,9 +18,11 @@
 <br /> <br /> -->
 
 ### PREPRINTS
-* B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023.
+* B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, D. Xu, "**Gentopia: A Collaborative Platform for Tool-Augmented LLMs**", arXiv preprint: 	arXiv:2308.04030, 2023.
 
 * X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**", arXiv preprint: arXiv:2302.02878, 2023.
+
+* B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023.
 
 * M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023.
 
