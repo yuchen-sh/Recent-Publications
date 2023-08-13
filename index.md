@@ -20,14 +20,14 @@
 ### PREPRINTS
 * B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, D. Xu, "**Gentopia: A Collaborative Platform for Tool-Augmented LLMs**", arXiv preprint: 	arXiv:2308.04030, 2023.
 
-* X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**", arXiv preprint: arXiv:2302.02878, 2023.
-
 * B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023.
 
 * M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023.
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2023</font>
+
+* X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**", IEEE Journal on Selected Areas in Communications (JSAC), to appear, 2023.
 
 * Z. Li, M. Chen, G. Li, and Y. Liu "**Spatial-Temporal Attention-based mmWave Link Quality Prediction under Dynamic Blockages**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023.
 
