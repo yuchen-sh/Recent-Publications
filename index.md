@@ -27,7 +27,7 @@
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2023</font>
 
-* R. Xu, G. Li, and Y. Liu, "**Enabling Covert Communication With Full-Duplex Receiver Against Location-Uncertain Eavesdropper**", poster, IEEE Secure Development Conference (SecDev), 2023. \[<font color='green'>Security</font>\]
+* R. Xu, G. Li, and Y. Liu, "**Enabling Covert Communication With Full-Duplex Receiver Against Location-Uncertain Eavesdropper**", poster, IEEE Secure Development Conference (SecDev), 2023. \[<font color='green' size =2>Security</font>\]
 
 * X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**", IEEE Journal on Selected Areas in Communications (JSAC), to appear, 2023. \[<font color='green'>Networks, AI/ML</font>\]
 
