@@ -18,9 +18,9 @@
 <br /> <br /> -->
 
 ### PREPRINTS
-* B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, D. Xu, "**Gentopia: A Collaborative Platform for Tool-Augmented LLMs**", arXiv preprint: 	arXiv:2308.04030, 2023. \[<font color='green'>AI</font>\]
+* B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, D. Xu, "**Gentopia: A Collaborative Platform for Tool-Augmented LLMs**", arXiv preprint: 	arXiv:2308.04030, 2023. \[<font color='green'>AI/ML</font>\]
 
-* B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023. \[<font color='green'>AI</font>\]
+* B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023. \[<font color='green'>AI/ML</font>\]
 
 * M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023. \[<font color='green'>Networks</font>\]
 
@@ -29,13 +29,13 @@
 
 * R. Xu, G. Li, and Y. Liu, "**Enabling Covert Communication With Full-Duplex Receiver Against Location-Uncertain Eavesdropper**", poster, IEEE Secure Development Conference (SecDev), 2023. \[<font color='green'>Security</font>\]
 
-* X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**", IEEE Journal on Selected Areas in Communications (JSAC), to appear, 2023. \[<font color='green'>Networks, AI</font>\]
+* X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**", IEEE Journal on Selected Areas in Communications (JSAC), to appear, 2023. \[<font color='green'>Networks, AI/ML</font>\]
 
-* Z. Li, M. Chen, G. Li, and Y. Liu "**Spatial-Temporal Attention-based mmWave Link Quality Prediction under Dynamic Blockages**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. \[<font color='green'>Networks, AI</font>\]
+* Z. Li, M. Chen, G. Li, and Y. Liu "**Spatial-Temporal Attention-based mmWave Link Quality Prediction under Dynamic Blockages**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. \[<font color='green'>Networks, AI/ML</font>\]
 
 * Y. Zhu, S. Wang, Y. Liu, and C. Yin "**Trajectory Design for 3D UAV Localization in UAV Based Network**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. \[<font color='green'>Networks</font>\]
 
-* H. Yu, M. Chen, Z. Yang, and Y. Liu "**Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. \[<font color='green'>AI, Networks</font>\]
+* H. Yu, M. Chen, Z. Yang, and Y. Liu "**Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. \[<font color='green'>AI/ML, Networks</font>\]
 
 * G. Li, Y. Zhao, W. Wei, and Y. Liu, "**Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats**", Proc. of IEEE International Conference on Smart Applications, Communications and Networking, to appear, 2023. \[<font color='green'>Security</font>\]
 
@@ -43,7 +43,7 @@
 
 * A. Ding, G. Li, X. Yi and Y. Liu, "**IVSign: Interpretable Vulnerability Signature via Code Embedding and Static Analysis**", Proc. of IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Workshop on Data-Centric Dependability and Security, to appear, 2023. \[<font color='green'>Security</font>\]
 
-* X. Li, M. Chen, Z. Zhang, D. Liu, Y. Liu, and S. Mao, "**Joint Optimization of Sensing and Communications in Vehicular Networks: A Graph Neural Network-based Approach**", Proc. of IEEE International Conference on Communications (ICC), 2023. \[<font color='green'>Networks, AI</font>\]
+* X. Li, M. Chen, Z. Zhang, D. Liu, Y. Liu, and S. Mao, "**Joint Optimization of Sensing and Communications in Vehicular Networks: A Graph Neural Network-based Approach**", Proc. of IEEE International Conference on Communications (ICC), 2023. \[<font color='green'>Networks, AI/ML</font>\]
 
 ### <font color='#0000dd'>Year 2022</font>
 
