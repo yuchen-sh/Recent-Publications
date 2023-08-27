@@ -31,19 +31,19 @@
 
 * X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**", IEEE Journal on Selected Areas in Communications (JSAC), to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
-* Z. Li, M. Chen, G. Li, and Y. Liu "**Spatial-Temporal Attention-based mmWave Link Quality Prediction under Dynamic Blockages**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. <font color='green' size =2>\[Networks, AI/ML\]</font>
+* Z. Li, M. Chen, G. Li, and Y. Liu "**Spatial-Temporal Attention-based mmWave Link Quality Prediction under Dynamic Blockages**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
-* Y. Zhu, S. Wang, Y. Liu, and C. Yin "**Trajectory Design for 3D UAV Localization in UAV Based Network**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. <font color='green' size =2>\[Networks\]</font>
+* Y. Zhu, S. Wang, Y. Liu, and C. Yin "**Trajectory Design for 3D UAV Localization in UAV Based Network**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
-* H. Yu, M. Chen, Z. Yang, and Y. Liu "**Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. <font color='green' size =2>\[AI/ML, Networks\]</font>
+* H. Yu, M. Chen, Z. Yang, and Y. Liu "**Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
-* G. Li, Y. Zhao, W. Wei, and Y. Liu, "**Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats**", Proc. of IEEE International Conference on Smart Applications, Communications and Networking, to appear, 2023. <font color='green' size =2>\[Security\]</font>
+* G. Li, Y. Zhao, W. Wei, and Y. Liu, "**Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats**", Proc. of IEEE International Conference on Smart Applications, Communications and Networking, to appear, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
-* Y. Liu, M. Chen, D. Xu, Z. Yang and S. Zhao, "**E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs**", Proc. of International Conference on Computer Communications and Networks (ICCCN), to appear, 2023. (**<font color='red'>Best Paper Award</font>**) <font color='green' size =2>\[Networks\]</font>
+* Y. Liu, M. Chen, D. Xu, Z. Yang and S. Zhao, "**E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs**", Proc. of International Conference on Computer Communications and Networks (ICCCN), to appear, 2023. (**<font color='red'>Best Paper Award</font>**) **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
-* A. Ding, G. Li, X. Yi and Y. Liu, "**IVSign: Interpretable Vulnerability Signature via Code Embedding and Static Analysis**", Proc. of IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Workshop on Data-Centric Dependability and Security, to appear, 2023. <font color='green' size =2>\[Security\]</font>
+* A. Ding, G. Li, X. Yi and Y. Liu, "**IVSign: Interpretable Vulnerability Signature via Code Embedding and Static Analysis**", Proc. of IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Workshop on Data-Centric Dependability and Security, to appear, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
-* X. Li, M. Chen, Z. Zhang, D. Liu, Y. Liu, and S. Mao, "**Joint Optimization of Sensing and Communications in Vehicular Networks: A Graph Neural Network-based Approach**", Proc. of IEEE International Conference on Communications (ICC), 2023. <font color='green' size =2>\[Networks, AI/ML\]</font>
+* X. Li, M. Chen, Z. Zhang, D. Liu, Y. Liu, and S. Mao, "**Joint Optimization of Sensing and Communications in Vehicular Networks: A Graph Neural Network-based Approach**", Proc. of IEEE International Conference on Communications (ICC), 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
 ### <font color='#0000dd'>Year 2022</font>
 
