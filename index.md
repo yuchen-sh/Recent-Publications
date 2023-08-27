@@ -18,7 +18,7 @@
 <br /> <br /> -->
 
 ### PREPRINTS
-* B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, D. Xu, "**Gentopia: A Collaborative Platform for Tool-Augmented LLMs**", arXiv preprint: 	arXiv:2308.04030, 2023. <font style="background: rgb(100, 200, 100)">AI/ML</font>
+* B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, D. Xu, "**Gentopia: A Collaborative Platform for Tool-Augmented LLMs**", arXiv preprint: 	arXiv:2308.04030, 2023. **<font style="background: rgb(100, 200, 100) color = white">AI/ML</font>**
 
 * B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023. <font color='green' size =2>\[AI/ML\]</font>
 
