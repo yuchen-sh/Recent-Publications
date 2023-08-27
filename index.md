@@ -18,16 +18,16 @@
 <br /> <br /> -->
 
 ### PREPRINTS
-* B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, D. Xu, "**Gentopia: A Collaborative Platform for Tool-Augmented LLMs**", arXiv preprint: 	arXiv:2308.04030, 2023. **<font style="background: #FF80bF" color='white' size=2>AI/ML</font>**
+* B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, D. Xu, "**Gentopia: A Collaborative Platform for Tool-Augmented LLMs**", arXiv preprint: 	arXiv:2308.04030, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
 * B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
-* M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023. **<font style="background: #8DF2F2" color='white' size=2>Networks</font>**
+* M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2023</font>
 
-* R. Xu, G. Li, and Y. Liu, "**Enabling Covert Communication With Full-Duplex Receiver Against Location-Uncertain Eavesdropper**", poster, IEEE Secure Development Conference (SecDev), 2023. **<font style="background: rgb(300, 192, 203)" color='white' size=2>Security</font>**
+* R. Xu, G. Li, and Y. Liu, "**Enabling Covert Communication With Full-Duplex Receiver Against Location-Uncertain Eavesdropper**", poster, IEEE Secure Development Conference (SecDev), 2023. **<font style="background: #FF80bF)" color='white' size=2>Security</font>**
 
 * X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**", IEEE Journal on Selected Areas in Communications (JSAC), to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: rgb(193, 210, 300)" color='white' size=2>Networks</font>**
 
