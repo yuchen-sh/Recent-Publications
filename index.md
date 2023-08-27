@@ -22,7 +22,7 @@
 
 * B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
-* M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023. **<font style="background: rgb(193, 210, 300)" color='white' size=2>Networks</font>**
+* M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023. **<font style="background: 0008B" color='white' size=2>Networks</font>**
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2023</font>
