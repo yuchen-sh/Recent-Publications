@@ -26,10 +26,11 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2023</font>
+* J. Chen, S. Zhao, Y. Liu, and Z. Luo, "**MMP: A Dynamic Routing Protocol Design to Proactively Defend against Wireless Network Inference Attacks**", ACM Conference on Computer and Communications Security (CCS) Workshop on Moving Target Defense, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+
+* X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**" [J], IEEE Journal on Selected Areas in Communications (JSAC), to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * R. Xu, G. Li, and Y. Liu, "**Enabling Covert Communication With Full-Duplex Receiver Against Location-Uncertain Eavesdropper**", poster, IEEE Secure Development Conference (SecDev), 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
-
-* X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**", IEEE Journal on Selected Areas in Communications (JSAC), to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * Z. Li, M. Chen, G. Li, and Y. Liu "**Spatial-Temporal Attention-based mmWave Link Quality Prediction under Dynamic Blockages**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
