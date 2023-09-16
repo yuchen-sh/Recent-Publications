@@ -40,7 +40,7 @@
 
 * G. Li, Y. Zhao, W. Wei, and Y. Liu, "**Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats**", Proc. of IEEE International Conference on Smart Applications, Communications and Networking, to appear, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
-* Y. Liu, M. Chen, D. Xu, Z. Yang and S. Zhao, "**E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs**", Proc. of International Conference on Computer Communications and Networks (ICCCN), 2023. (**<font color='red'>Best Paper Award</font>**) **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* Y. Liu, M. Chen, D. Xu, Z. Yang and S. Zhao, "**E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs**", Proc. of Int'l Conference on Computer Communications and Networks (ICCCN), 2023. (🏆**<font color='red'>Best Paper Award</font>**) **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * A. Ding, G. Li, X. Yi and Y. Liu, "**IVSign: Interpretable Vulnerability Signature via Code Embedding and Static Analysis**", Proc. of IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) Workshop on Data-Centric Dependability and Security, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
@@ -50,7 +50,7 @@
 
 * Y. Liu and D. Blough, “**Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs**”, Proc. of ACM International Symposium on Mobility Management and Wireless Access, 2022. (🏆**<font color='red'>Best Paper Award</font>**)
 
-* A. Deng, Y. Liu, and D. Blough, “**Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs**”, Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2022. (**<font color='red'>Best Paper Award</font>**)
+* A. Deng, Y. Liu, and D. Blough, “**Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs**”, Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2022. (🏆**<font color='red'>Best Paper Award</font>**)
 
 * Y. Jian, C. Tai, S. Venkateswaran, M. Agarwal, Y. Liu, D. Blough, R. Sivakumar, "**Algorithms for Addressing Line-of-Sight Issues in mmWave Wi-Fi Systems using Access Point Mobility**", Journal of Parallel and Distributed Computing, \[J\], Elsevier, 2022.
 
@@ -68,7 +68,7 @@
 
 * Y. Liu and D. Blough, "**Joint Link-level and Network-level Reconfiguration for Urban mmWave Wireless Backhaul Networks**", Computer Communications \[J\], Elsevier, 2020.
 
-*	Y. Liu and D. Blough, “**Blockage Robustness in Access Point Association for mmWave Wireless LANs with Mobility**”, Proc. of IEEE International Conference on Local Computer Networks, 2020. (**<font color='red'>Best Paper Award finalist</font>**)
+*	Y. Liu and D. Blough, “**Blockage Robustness in Access Point Association for mmWave Wireless LANs with Mobility**”, Proc. of IEEE International Conference on Local Computer Networks, 2020. (🏆**<font color='red'>Best Paper Award finalist</font>**)
 
 *	Y. Liu, Y. Jian, R. Sivakumar, and D. Blough, "**On the Potential Benefits of Mobile Access Points in mmWave Wireless LANs**," Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2020.
 
@@ -78,7 +78,7 @@
 
 ### <font color='#0000dd'>Year 2019</font>
 
-* Y. Liu, Q. Hu and D. Blough, “**Joint Link-level and Network-level Reconfiguration for mmWave Backhaul Survivability in Urban Environments**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019. (**<font color='red'>Best Paper Award finalist</font>**)
+* Y. Liu, Q. Hu and D. Blough, “**Joint Link-level and Network-level Reconfiguration for mmWave Backhaul Survivability in Urban Environments**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019. (🏆**<font color='red'>Best Paper Award finalist</font>**)
 
 * Y. Liu, Y. Jian, R. Sivakumar and D. Blough, “**Optimal Access Point Placement in Multi-AP mmWave WLANs**”, Proc. of Modeling, Analysis and Simulation of Wireless and Mobile Systems, ACM, 2019.
 
