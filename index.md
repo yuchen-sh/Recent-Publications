@@ -48,7 +48,7 @@
 
 ### <font color='#0000dd'>Year 2022</font>
 
-* Y. Liu and D. Blough, “**Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs**”, Proc. of ACM International Symposium on Mobility Management and Wireless Access, 2022. (**<font color='red'>Best Paper Award</font>**)
+* Y. Liu and D. Blough, “**Environment-Aware Link Quality Prediction for Millimeter-Wave Wireless LANs**”, Proc. of ACM International Symposium on Mobility Management and Wireless Access, 2022. (🏆**<font color='red'>Best Paper Award</font>**)
 
 * A. Deng, Y. Liu, and D. Blough, “**Exploring Performance Limits on Proactive Fair Scheduling for mmWave WLANs**”, Proc. of IEEE International Symposium on Local and Metropolitan Area Networks, 2022. (**<font color='red'>Best Paper Award</font>**)
 
