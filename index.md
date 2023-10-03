@@ -26,6 +26,8 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2023</font>
+* B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Ziyu Yao, and D. Xu, "**Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs**", System Demonstration Program, The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** 
+
 * J. Chen, S. Zhao, Y. Liu, and Z. Luo, "**MMP: A Dynamic Routing Protocol Design to Proactively Defend against Wireless Network Inference Attacks**", ACM Conference on Computer and Communications Security (CCS) Workshop on Moving Target Defense, to appear, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**" [J], IEEE Journal on Selected Areas in Communications (JSAC), to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
