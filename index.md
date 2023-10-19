@@ -25,11 +25,15 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2023</font>
+* B. Chen, G. Li, M. Chen, Y. Liu, X. Yi, and J. Li, ''**PBE-Plan: Periodic Backdoor Erasing Plan for Trustworthy Federated Learning**'', The 25th IEEE International Conference on High Performance Computing and Communications, to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**
+
+* Q. Mao, X. Lin, G. Li, L. Chen, Y. Liu, and J. Li, ''**Ensuring Minority Group Rights in Social IoT with Fairness-aware Federated Graph Node Classification**'', IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), to appear, 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+
 * B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, and D. Xu, "**Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs**", System Demonstration Program, The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** 
 
 * J. Chen, S. Zhao, Y. Liu, and Z. Luo, "**MMP: A Dynamic Routing Protocol Design to Proactively Defend against Wireless Network Inference Attacks**", ACM Conference on Computer and Communications Security (CCS) Workshop on Moving Target Defense, to appear, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
-* X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**" [J], IEEE Journal on Selected Areas in Communications (JSAC), to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**" [J], IEEE Journal on Selected Areas in Communications (JSAC), 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * R. Xu, G. Li, and Y. Liu, "**Enabling Covert Communication With Full-Duplex Receiver Against Location-Uncertain Eavesdropper**", poster, IEEE Secure Development Conference (SecDev), 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
