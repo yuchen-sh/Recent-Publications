@@ -19,11 +19,16 @@
 
 ### PREPRINTS
 
-* B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
+* L. Lin, M. Chen, Z. Yang, Y. Wu, and Y. Liu, "**A Joint Gradient and Loss Based Clustered Federated Learning Design**", arXiv preprint: arXiv:2311.13665, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+
+* B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, and D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
 * M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 ### PUBLICATIONS 
+### <font color='#0000dd'>Year 2024</font>
+* R. Xu, G. Li, Y. Liu, Y. Zhao, J. Kang and J. Li, ''**Regulating Covert Communication Capacity with Full-Duplex Receiver Against Location-Uncertain Eavesdropper**'', International Conference on Computing, Networking and Communications (ICNC), CNS Track, to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**
+
 ### <font color='#0000dd'>Year 2023</font>
 * B. Chen, G. Li, M. Chen, Y. Liu, X. Yi, and J. Li, ''**PBE-Plan: Periodic Backdoor Erasing Plan for Trustworthy Federated Learning**'', The 25th IEEE International Conference on High Performance Computing and Communications, to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
@@ -31,7 +36,7 @@
 
 * B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, and D. Xu, "**Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs**", System Demonstration Program, The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** 
 
-* J. Chen, S. Zhao, Y. Liu, and Z. Luo, "**MMP: A Dynamic Routing Protocol Design to Proactively Defend against Wireless Network Inference Attacks**", ACM Conference on Computer and Communications Security (CCS) Workshop on Moving Target Defense, to appear, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* J. Chen, S. Zhao, Y. Liu, and Z. Luo, "**MMP: A Dynamic Routing Protocol Design to Proactively Defend against Wireless Network Inference Attacks**", ACM Conference on Computer and Communications Security (CCS) Workshop on Moving Target Defense, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**" [J], IEEE Journal on Selected Areas in Communications (JSAC), 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
