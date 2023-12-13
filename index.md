@@ -27,6 +27,10 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
+* Z. Yang, M. Chen, Y. Liu, and Z. Zhang, ''**A Joint Communication and Computation Framework for Digital Twin over Wireless Networks**'', IEEE Journal of Selected Topics in Signal Processing (JSTSP), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+
+* Z. Yang, M. Chen, Y. Liu, ''**Optimizing Synchronization Delay for Digital Twin over Wireless Networks**'', IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+
 * R. Xu, G. Li, Y. Liu, Y. Zhao, J. Kang and J. Li, ''**Regulating Covert Communication Capacity with Full-Duplex Receiver Against Location-Uncertain Eavesdropper**'', International Conference on Computing, Networking and Communications (ICNC), CNS Track, to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
 ### <font color='#0000dd'>Year 2023</font>
