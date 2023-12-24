@@ -27,6 +27,8 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
+* R. Xu, G. Li, Z. Yang, M. Chen, Y. Liu, and J. Li, ''**Covert and Reliable Semantic Communication Against Cross-layer Privacy Inference over Wireless Edge Networks**'', IEEE Wireless Communications and Networking Conference (WCNC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
+
 * Z. Yang, M. Chen, Y. Liu, and Z. Zhang, ''**A Joint Communication and Computation Framework for Digital Twin over Wireless Networks**'', IEEE Journal of Selected Topics in Signal Processing (JSTSP), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * Z. Yang, M. Chen, Y. Liu, ''**Optimizing Synchronization Delay for Digital Twin over Wireless Networks**'', IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
