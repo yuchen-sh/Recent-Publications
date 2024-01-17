@@ -27,9 +27,9 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
-* Z. Yang, Y. Wang, M. Chen, J. Liu, and Y. Liu, ``**GemNet: Analysis and Prediction of Building Materials for Optimizing Indoor Wireless Networks**'', IEEE International Conference on Communications (ICC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
+* Z. Yang, Y. Wang, M. Chen, J. Liu, and Y. Liu, ''**GemNet: Analysis and Prediction of Building Materials for Optimizing Indoor Wireless Networks**'', IEEE International Conference on Communications (ICC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
-* Z. Li, X. Luo, M. Chen, C. Xu, and Y. Liu, ``**Context-Aware Beam Management via Online Probing in Combinatorial Multi-Armed Bandits**'', IEEE International Conference on Communications (ICC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
+* Z. Li, X. Luo, M. Chen, C. Xu, and Y. Liu, ''**Context-Aware Beam Management via Online Probing in Combinatorial Multi-Armed Bandits**'', IEEE International Conference on Communications (ICC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
 * R. Xu, G. Li, Z. Yang, M. Chen, Y. Liu, and J. Li, ''**Covert and Reliable Semantic Communication Against Cross-layer Privacy Inference over Wireless Edge Networks**'', IEEE Wireless Communications and Networking Conference (WCNC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
