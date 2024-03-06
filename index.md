@@ -27,6 +27,8 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
+* H. Yu, M. Chen, and Y. Liu, ''**Complex-Valued Neural Network based Federated Learning for Multi-user Indoor Positioning Performance Optimization**'', IEEE Internet of Things Journal (IoTJ), to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+
 * Z. Yang, Y. Wang, M. Chen, J. Liu, and Y. Liu, ''**GemNet: Analysis and Prediction of Building Materials for Optimizing Indoor Wireless Networks**'', IEEE International Conference on Communications (ICC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
 * Z. Li, X. Luo, M. Chen, C. Xu, and Y. Liu, ''**Context-Aware Beam Management via Online Probing in Combinatorial Multi-Armed Bandits**'', IEEE International Conference on Communications (ICC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
