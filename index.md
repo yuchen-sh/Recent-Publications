@@ -28,7 +28,7 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
-* Y. Zhu, M. Chen, S. Wang, Y. Hu, Y. Liu, and C. Yin, ''**Collaborative Reinforcement Learning Based Unmanned Aerial Vehicle (UAV) Trajectory Design for 3D UAV Tracking**'', IEEE Transactions on Mobile Computing (TMC), to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* Y. Zhu, M. Chen, S. Wang, Y. Hu, Y. Liu, and C. Yin, ''**Collaborative Reinforcement Learning Based Unmanned Aerial Vehicle (UAV) Trajectory Design for 3D UAV Tracking**'', IEEE Transactions on Mobile Computing (TMC), to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Computing</font>**
 
 * H. Yu, M. Chen, and Y. Liu, ''**Complex-Valued Neural Network based Federated Learning for Multi-user Indoor Positioning Performance Optimization**'', IEEE Internet of Things Journal (IoTJ), to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
