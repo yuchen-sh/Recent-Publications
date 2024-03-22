@@ -28,9 +28,9 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
-* Y. Zhu, M. Chen, S. Wang, Y. Hu, Y. Liu, and C. Yin, ''**Collaborative Reinforcement Learning Based Unmanned Aerial Vehicle (UAV) Trajectory Design for 3D UAV Tracking**'', IEEE Transactions on Mobile Computing (TMC), to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Computing</font>**
+* Y. Zhu, M. Chen, S. Wang, Y. Hu, Y. Liu, and C. Yin, ''**Collaborative Reinforcement Learning Based Unmanned Aerial Vehicle (UAV) Trajectory Design for 3D UAV Tracking**'', IEEE Transactions on Mobile Computing (TMC) \[J\], to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Computing</font>**
 
-* H. Yu, M. Chen, and Y. Liu, ''**Complex-Valued Neural Network based Federated Learning for Multi-user Indoor Positioning Performance Optimization**'', IEEE Internet of Things Journal (IoTJ), to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* H. Yu, M. Chen, and Y. Liu, ''**Complex-Valued Neural Network based Federated Learning for Multi-user Indoor Positioning Performance Optimization**'', IEEE Internet of Things Journal (IoTJ) \[J\], to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * Z. Yang, Y. Wang, M. Chen, J. Liu, and Y. Liu, ''**GemNet: Analysis and Prediction of Building Materials for Optimizing Indoor Wireless Networks**'', IEEE International Conference on Communications (ICC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
@@ -38,7 +38,7 @@
 
 * R. Xu, G. Li, Z. Yang, M. Chen, Y. Liu, and J. Li, ''**Covert and Reliable Semantic Communication Against Cross-layer Privacy Inference over Wireless Edge Networks**'', IEEE Wireless Communications and Networking Conference (WCNC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
-* Z. Yang, M. Chen, Y. Liu, and Z. Zhang, ''**A Joint Communication and Computation Framework for Digital Twin over Wireless Networks**'', IEEE Journal of Selected Topics in Signal Processing (JSTSP), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* Z. Yang, M. Chen, Y. Liu, and Z. Zhang, ''**A Joint Communication and Computation Framework for Digital Twin over Wireless Networks**'', IEEE Journal of Selected Topics in Signal Processing (JSTSP) \[J\], to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * Z. Yang, M. Chen, Y. Liu, ''**Optimizing Synchronization Delay for Digital Twin over Wireless Networks**'', IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
@@ -53,7 +53,7 @@
 
 * J. Chen, S. Zhao, Y. Liu, and Z. Luo, "**MMP: A Dynamic Routing Protocol Design to Proactively Defend against Wireless Network Inference Attacks**", ACM Conference on Computer and Communications Security (CCS) Workshop on Moving Target Defense, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
-* X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**" [J], IEEE Journal on Selected Areas in Communications (JSAC), 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* X. Li, M. Chen, Y. Liu, Z. Zhang, D. Liu, and S. Mao, "**Graph Neural Networks for Joint Communication and Sensing Optimization in Vehicular Networks**" [J], IEEE Journal on Selected Areas in Communications (JSAC) \[J\], 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * R. Xu, G. Li, and Y. Liu, "**Enabling Covert Communication With Full-Duplex Receiver Against Location-Uncertain Eavesdropper**", poster, IEEE Secure Development Conference (SecDev), 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
