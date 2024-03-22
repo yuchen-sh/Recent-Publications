@@ -83,7 +83,7 @@
 
 * Y. Liu, S. Crisp and D. Blough, “**Performance Study of Statistical and Deterministic Channel Models for mmWave Wi-Fi Networks in ns-3**”, Proc. of ACM Workshop on ns-3, 2021.
 
-* Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking \[J\], 2021.
+* Y. Liu, Y. Jian, R. Sivakumar and D. Blough, "**Maximizing Line-of-Sight Coverage for mmWave Wireless LANs with Multiple Access Points**", IEEE/ACM Transactions on Networking (ToN) \[J\], 2021.
 
 * Y. Liu and D. Blough, "**Blockage Tolerance in Roadside Millimeter-Wave Backhaul Networks**", Computer Networks \[J\], Elsevier, 2021.
 
