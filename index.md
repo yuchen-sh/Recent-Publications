@@ -34,6 +34,8 @@
 
 * Z. Zhang, M. Fang, J. Huang, and Y. Liu, ''**Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction**'', IFIP/IEEE Networking, to appear, 2024. **<font style="background: #FF80BF" color='white' size=2>Security</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
+* B. Chatterjee, S. Chaudhari, Z. Li, Y. Liu, and R. Dutta, ''**Wireless Signal Source Localization by Unmanned Aerial Vehicle using AERPAW Digital Twin and Testbed**'', IFIP/IEEE Networking, in the Workshop on Thought experiments, data and reproducibility for networking and FutureG research (SLICES), 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>System</font>**
+
 * M. Fang, Z. Zhang, F. Hairi, P. Khanduri, J. Liu, S. Lu, N. Gong, and Y. Liu, ''**Toward Byzantine-Robust Decentralized Federated Learning**'', ACM Conference on Computer and Communications Security (CCS), to appear, 2024. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
 * Y. Zhu, M. Chen, S. Wang, Y. Hu, Y. Liu, and C. Yin, ''**Collaborative Reinforcement Learning Based Unmanned Aerial Vehicle (UAV) Trajectory Design for 3D UAV Tracking**'', IEEE Transactions on Mobile Computing (TMC) \[J\], to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Computing</font>**
