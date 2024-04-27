@@ -34,7 +34,7 @@
 
 * Z. Zhang, M. Fang, J. Huang, and Y. Liu, ''**Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction**'', IFIP/IEEE Networking, to appear, 2024. **<font style="background: #FF80BF" color='white' size=2>Security</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
-* B. Chatterjee, S. Chaudhari, Z. Li, Y. Liu, and R. Dutta, ''**Wireless Signal Source Localization by Unmanned Aerial Vehicle using AERPAW Digital Twin and Testbed**'', IFIP/IEEE Networking, in the Workshop on Thought experiments, data and reproducibility for networking and FutureG research (SLICES), 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>System</font>**
+* B. Chatterjee, S. Chaudhari, Z. Li, Y. Liu, and R. Dutta, ''**Wireless Signal Source Localization by Unmanned Aerial Vehicle using AERPAW Digital Twin and Testbed**'', IFIP/IEEE Networking, in the Workshop on Thought experiments, data and reproducibility for networking and FutureG research (SLICES), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>System</font>**
 
 * M. Fang, Z. Zhang, F. Hairi, P. Khanduri, J. Liu, S. Lu, N. Gong, and Y. Liu, ''**Toward Byzantine-Robust Decentralized Federated Learning**'', ACM Conference on Computer and Communications Security (CCS), to appear, 2024. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
@@ -48,16 +48,16 @@
 
 * R. Xu, G. Li, Z. Yang, M. Chen, Y. Liu, and J. Li, ''**Covert and Reliable Semantic Communication Against Cross-layer Privacy Inference over Wireless Edge Networks**'', IEEE Wireless Communications and Networking Conference (WCNC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
-* Z. Yang, M. Chen, Y. Liu, and Z. Zhang, ''**A Joint Communication and Computation Framework for Digital Twin over Wireless Networks**'', IEEE Journal of Selected Topics in Signal Processing (JSTSP) \[J\], to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* Z. Yang, M. Chen, Y. Liu, and Z. Zhang, ''**A Joint Communication and Computation Framework for Digital Twin over Wireless Networks**'', IEEE Journal of Selected Topics in Signal Processing (JSTSP) \[J\], 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
-* Z. Yang, M. Chen, Y. Liu, ''**Optimizing Synchronization Delay for Digital Twin over Wireless Networks**'', IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* Z. Yang, M. Chen, Y. Liu, ''**Optimizing Synchronization Delay for Digital Twin over Wireless Networks**'', IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * R. Xu, G. Li, Y. Liu, Y. Zhao, J. Kang and J. Li, ''**Regulating Covert Communication Capacity with Full-Duplex Receiver Against Location-Uncertain Eavesdropper**'', International Conference on Computing, Networking and Communications (ICNC), CNS Track, to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
 ### <font color='#0000dd'>Year 2023</font>
-* B. Chen, G. Li, M. Chen, Y. Liu, X. Yi, and J. Li, ''**PBE-Plan: Periodic Backdoor Erasing Plan for Trustworthy Federated Learning**'', The 25th IEEE International Conference on High Performance Computing and Communications, to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**
+* B. Chen, G. Li, M. Chen, Y. Liu, X. Yi, and J. Li, ''**PBE-Plan: Periodic Backdoor Erasing Plan for Trustworthy Federated Learning**'', The 25th IEEE International Conference on High Performance Computing and Communications, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
-* Q. Mao, X. Lin, G. Li, L. Chen, Y. Liu, and J. Li, ''**Ensuring Minority Group Rights in Social IoT with Fairness-aware Federated Graph Node Classification**'', IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), to appear, 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* Q. Mao, X. Lin, G. Li, L. Chen, Y. Liu, and J. Li, ''**Ensuring Minority Group Rights in Social IoT with Fairness-aware Federated Graph Node Classification**'', IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * B. Xu, X. Liu, H. Shen, Z. Han, Y. Li, M. Yue, Z. Peng, Y. Liu, Z. Yao, and D. Xu, "**Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs**", System Demonstration Program, The Conference on Empirical Methods in Natural Language Processing (EMNLP), 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** 
 
@@ -67,13 +67,13 @@
 
 * R. Xu, G. Li, and Y. Liu, "**Enabling Covert Communication With Full-Duplex Receiver Against Location-Uncertain Eavesdropper**", poster, IEEE Secure Development Conference (SecDev), 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
-* Z. Li, M. Chen, G. Li, and Y. Liu "**Spatial-Temporal Attention-based mmWave Link Quality Prediction under Dynamic Blockages**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
+* Z. Li, M. Chen, G. Li, and Y. Liu "**Spatial-Temporal Attention-based mmWave Link Quality Prediction under Dynamic Blockages**", Proc. of IEEE Global Communications Conference (GLOBECOM), 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
-* Y. Zhu, S. Wang, Y. Liu, and C. Yin "**Trajectory Design for 3D UAV Localization in UAV Based Network**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* Y. Zhu, S. Wang, Y. Liu, and C. Yin "**Trajectory Design for 3D UAV Localization in UAV Based Network**", Proc. of IEEE Global Communications Conference (GLOBECOM), 2023. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
-* H. Yu, M. Chen, Z. Yang, and Y. Liu "**Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* H. Yu, M. Chen, Z. Yang, and Y. Liu "**Complex Neural Networks for Indoor Positioning with Complex-Valued Channel State Information**", Proc. of IEEE Global Communications Conference (GLOBECOM), 2023. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
-* G. Li, Y. Zhao, W. Wei, and Y. Liu, "**Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats**", Proc. of IEEE International Conference on Smart Applications, Communications and Networking, to appear, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
+* G. Li, Y. Zhao, W. Wei, and Y. Liu, "**Few-Shot Multi-Domain Knowledge Rearming for Context-Aware Defence Against Advanced Persistent Threats**", Proc. of IEEE International Conference on Smart Applications, Communications and Networking, 2023. **<font style="background: #FF80BF" color='white' size=2>Security</font>**
 
 * Y. Liu, M. Chen, D. Xu, Z. Yang and S. Zhao, "**E-App: Adaptive mmWave Access Point Planning with Environmental Awareness in Wireless LANs**", Proc. of Int'l Conference on Computer Communications and Networks (ICCCN), 2023. (🏆**<font color='red'>Best Paper Award</font>**) **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
