@@ -40,7 +40,7 @@
 
 * Y. Zhu, M. Chen, S. Wang, Y. Hu, Y. Liu, and C. Yin, ''**Collaborative Reinforcement Learning Based Unmanned Aerial Vehicle (UAV) Trajectory Design for 3D UAV Tracking**'', IEEE Transactions on Mobile Computing (TMC) \[J\], to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Computing</font>**
 
-* H. Yu, M. Chen, and Y. Liu, ''**Complex-Valued Neural Network based Federated Learning for Multi-user Indoor Positioning Performance Optimization**'', IEEE Internet of Things Journal (IoTJ) \[J\], to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+* H. Yu, M. Chen, and Y. Liu, ''**Complex-Valued Neural Network based Federated Learning for Multi-user Indoor Positioning Performance Optimization**'', IEEE Internet of Things Journal (IoT-J) \[J\], to appear, 2024. **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
 
 * Z. Yang, Y. Wang, M. Chen, J. Liu, and Y. Liu, ''**GemNet: Analysis and Prediction of Building Materials for Optimizing Indoor Wireless Networks**'', IEEE International Conference on Communications (ICC), to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
