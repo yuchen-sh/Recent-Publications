@@ -28,7 +28,7 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
-* X. Zhang, J. Zhang, K. Chow, J. Chen, Y. Mao∗, M. Rahouti, X. Li, Y. Liu, and W Wei, ''**Visualizing the Shadows: Unveiling Data Poisoning
+* X. Zhang, J. Zhang, K. Chow, J. Chen, Y. Mao, M. Rahouti, X. Li, Y. Liu, and W Wei, ''**Visualizing the Shadows: Unveiling Data Poisoning
 Behaviors in Federated Learning**'', IEEE International Conference on Distributed Computing Systems (ICDCS), Demo paper, to appear, 2024. **<font style="background: #FF80BF" color='white' size=2>Security</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
 
 * Z. Zhang, M. Chen, Z. Yang, and Y. Liu, ''**Mapping Wireless Networks into Digital Reality through Joint Vertical and Horizontal Learning**'', IFIP/IEEE Networking, to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
