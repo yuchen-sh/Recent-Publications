@@ -28,7 +28,7 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
-* Z. Zhang, Y. Liu, Z. Peng, M. Chen, D. Xu, and S. Cui, ''**Digital Twin-Assisted Data-Driven Optimization for Reliable Edge Caching in Wireless Networks**'' [J], IEEE Journal on Selected Areas in Communications (JSAC) \[J\], to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Optimization</font>**
+* Z. Zhang, Y. Liu, Z. Peng, M. Chen, D. Xu, and S. Cui, ''**Digital Twin-Assisted Data-Driven Optimization for Reliable Edge Caching in Wireless Networks**'', IEEE Journal on Selected Areas in Communications (JSAC) \[J\], to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Optimization</font>**
 
 * X. Zhang, J. Zhang, K. Chow, J. Chen, Y. Mao, M. Rahouti, X. Li, Y. Liu, and W Wei, ''**Visualizing the Shadows: Unveiling Data Poisoning
 Behaviors in Federated Learning**'', IEEE International Conference on Distributed Computing Systems (ICDCS), Demo paper, to appear, 2024. **<font style="background: #FF80BF" color='white' size=2>Security</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**
