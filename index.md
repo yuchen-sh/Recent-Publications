@@ -28,6 +28,8 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
+* Z. Li, M. Chen, G. Li, X. Lin, and Y. Liu, ''**Map-Driven mmWave Link Quality Prediction with Spatial-Temporal Mobility Awareness**'', IEEE Transactions on Mobile Computing (**TMC**) \[J\], to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>**
+
 * Z. Zhang, Y. Liu, Z. Peng, M. Chen, D. Xu, and S. Cui, ''**Digital Twin-Assisted Data-Driven Optimization for Reliable Edge Caching in Wireless Networks**'', IEEE Journal on Selected Areas in Communications (JSAC) \[J\], to appear, 2024. **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Optimization</font>**
 
 * X. Zhang, J. Zhang, K. Chow, J. Chen, Y. Mao, M. Rahouti, X. Li, Y. Liu, and W Wei, ''**Visualizing the Shadows: Unveiling Data Poisoning
