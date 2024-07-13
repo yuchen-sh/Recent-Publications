@@ -34,7 +34,7 @@
 
 * Z. Zhang, Y. Liu, Z. Peng, M. Chen, D. Xu, and S. Cui, ''**Digital Twin-Assisted Data-Driven Optimization for Reliable Edge Caching in Wireless Networks**'', IEEE Journal on Selected Areas in Communications (JSAC) \[J\], to appear, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Optimization</font>**-->
 
-* Z. Li, M. Chen, G. Li, X. Lin, and Y. Liu, ''**Map-Driven mmWave Link Quality Prediction with Spatial-Temporal Mobility Awareness**'', IEEE Transactions on Mobile Computing (TMC) \[J\], to appear, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**-->
+* Z. Li, M. Chen, G. Li, X. Lin, and Y. Liu, ''**Map-Driven mmWave Link Quality Prediction with Spatial-Temporal Mobility Awareness**'', IEEE Transactions on Mobile Computing (TMC) \[J\], 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**-->
 
 * Z. Zhang, M. Fang, M. Chen, G. Li, X. Lin, and Y. Liu, ''**Securing Distributed Network Digital Twin Systems Against Model Poisoning Attacks**'', IEEE Internet of Things Journal (IoT-J) \[J\], to appear, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**--> 
 
@@ -51,9 +51,9 @@ Behaviors in Federated Learning**'', IEEE International Conference on Distribute
 
 * M. Fang, Z. Zhang, F. Hairi, P. Khanduri, J. Liu, S. Lu, N. Gong, and Y. Liu, ''**Toward Byzantine-Robust Decentralized Federated Learning**'', ACM Conference on Computer and Communications Security (CCS), to appear, 2024. <!--**<font style="background: #FF80BF" color='white' size=2>Security</font>**-->
 
-* Y. Zhu, M. Chen, S. Wang, Y. Hu, Y. Liu, and C. Yin, ''**Collaborative Reinforcement Learning Based Unmanned Aerial Vehicle (UAV) Trajectory Design for 3D UAV Tracking**'', IEEE Transactions on Mobile Computing (TMC) \[J\], to appear, 2024. <!--**<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Computing</font>**-->
+* Y. Zhu, M. Chen, S. Wang, Y. Hu, Y. Liu, and C. Yin, ''**Collaborative Reinforcement Learning Based Unmanned Aerial Vehicle (UAV) Trajectory Design for 3D UAV Tracking**'', IEEE Transactions on Mobile Computing (TMC) \[J\], 2024. <!--**<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #44CEF6" color='white' size=2>Computing</font>**-->
 
-* H. Yu, M. Chen, and Y. Liu, ''**Complex-Valued Neural Network based Federated Learning for Multi-user Indoor Positioning Performance Optimization**'', IEEE Internet of Things Journal (IoT-J) \[J\], to appear, 2024. <!--**<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**-->
+* H. Yu, M. Chen, and Y. Liu, ''**Complex-Valued Neural Network based Federated Learning for Multi-user Indoor Positioning Performance Optimization**'', IEEE Internet of Things Journal (IoT-J) \[J\], 2024. <!--**<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>**-->
 
 * Z. Yang, Y. Wang, M. Chen, J. Liu, and Y. Liu, ''**GemNet: Analysis and Prediction of Building Materials for Optimizing Indoor Wireless Networks**'', IEEE International Conference on Communications (ICC), to appear, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**-->
 
@@ -65,7 +65,7 @@ Behaviors in Federated Learning**'', IEEE International Conference on Distribute
 
 * Z. Yang, M. Chen, Y. Liu, ''**Optimizing Synchronization Delay for Digital Twin over Wireless Networks**'', IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**-->
 
-* R. Xu, G. Li, Y. Liu, Y. Zhao, J. Kang and J. Li, ''**Regulating Covert Communication Capacity with Full-Duplex Receiver Against Location-Uncertain Eavesdropper**'', International Conference on Computing, Networking and Communications (ICNC), CNS Track, to appear, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**-->
+* R. Xu, G. Li, Y. Liu, Y. Zhao, J. Kang and J. Li, ''**Regulating Covert Communication Capacity with Full-Duplex Receiver Against Location-Uncertain Eavesdropper**'', International Conference on Computing, Networking and Communications (ICNC), CNS Track, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**-->
 
 ### <font color='#0000dd'>Year 2023</font>
 * B. Chen, G. Li, M. Chen, Y. Liu, X. Yi, and J. Li, ''**PBE-Plan: Periodic Backdoor Erasing Plan for Trustworthy Federated Learning**'', The 25th IEEE International Conference on High Performance Computing and Communications, 2023. <!--**<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**-->
