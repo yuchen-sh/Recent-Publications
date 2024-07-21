@@ -28,6 +28,8 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
+* R. Xu, G. Li, C. Li, Z. Yang, Y. Liu, and M. Chen, ''**OSNeRF: On-demand Semantic Neural Radiance Fields for Fast and Robust 3D Object Reconstruction**'', ACM Multimedia Conference, to appear, 2024.
+
 * X. Yi, G. Li, B. Chen, X. Lin, Z. Peng, Y. Liu, and J. Li, ''**HSESR: Hierarchical Software Execution State Representation for Ultra-low-Latency Threat Alerting over Internet of Things**'', IEEE Internet of Things Journal (IoT-J) \[J\], to appear, 2024.
 
 * W. Ding, Z. Yang, M. Chen, Y. Liu, and M. Shikh-Bahaei, ''**Joint Vehicle Connection and Beamforming Optimization in Digital Twin Assisted Integrated Sensing and Communication Vehicular Networks**'', IEEE Internet of Things Journal (IoT-J) \[J\], to appear, 2024.
