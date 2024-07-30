@@ -20,14 +20,18 @@
 ### PREPRINTS
 * X. Liu, Z. Peng, X. Yi, X. Xie, L. Xiang, Y. Liu, and D. Xu, "**ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph**", arXiv preprint: arXiv:2403.00839, 2024. <!-- **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** -->
 
-* L. Lin, M. Chen, Z. Yang, Y. Wu, and Y. Liu, "**A Joint Gradient and Loss Based Clustered Federated Learning Design**", arXiv preprint: arXiv:2311.13665, 2023. <!-- **<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #44CEF6" color='white' size=2>Networks</font>** -->
-
 * B. Xu, Z. Peng, B. Lei, S. Mukherjee, Y. Liu, and D. Xu, "**ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models**", arXiv preprint: arXiv:2305.18323, 2023. <!--**<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>**-->
 
 * M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**-->
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
+* L. Lin, M. Chen, Z. Yang, Y. Wu, and Y. Liu, "**A Joint Gradient and Loss Based Clustered Federated Learning Design**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2024.
+
+* H. Yu, Y. Liu, and M. Chen, "**Joint Communication and Synchronization Performance Optimization in Digital Twin Enabled Networks**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2024.
+
+* Y. Zhu, M. Chen, S. Wang, Y. Liu, G. Li, C. Yin, and T. Quek, ''**Mixture Gaussian Distribution-Based Collaborative Reinforcement Learning for 3D UAV Localization Optimization Against Jamming Attacks**'', Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2024. 
+
 * R. Xu, G. Li, C. Li, Z. Yang, Y. Liu, and M. Chen, ''**OSNeRF: On-demand Semantic Neural Radiance Fields for Fast and Robust 3D Object Reconstruction**'', ACM Multimedia Conference (MM), to appear, 2024.
 
 * X. Yi, G. Li, B. Chen, X. Lin, Z. Peng, Y. Liu, and J. Li, ''**HSESR: Hierarchical Software Execution State Representation for Ultra-low-Latency Threat Alerting over Internet of Things**'', IEEE Internet of Things Journal (IoT-J) \[J\], to appear, 2024.
