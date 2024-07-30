@@ -67,9 +67,10 @@ Behaviors in Federated Learning**'', IEEE International Conference on Distribute
 
 * Z. Yang, M. Chen, Y. Liu, ''**Optimizing Synchronization Delay for Digital Twin over Wireless Networks**'', IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**-->
 
-* R. Xu, G. Li, Y. Liu, Y. Zhao, J. Kang and J. Li, ''**Regulating Covert Communication Capacity with Full-Duplex Receiver Against Location-Uncertain Eavesdropper**'', International Conference on Computing, Networking and Communications (ICNC), CNS Track, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**-->
 
 ### <font color='#0000dd'>Year 2023</font>
+* R. Xu, G. Li, Y. Liu, Y. Zhao, J. Kang and J. Li, ''**Regulating Covert Communication Capacity with Full-Duplex Receiver Against Location-Uncertain Eavesdropper**'', International Conference on Computing, Networking and Communications (ICNC), CNS Track, 2023. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**-->
+
 * B. Chen, G. Li, M. Chen, Y. Liu, X. Yi, and J. Li, ''**PBE-Plan: Periodic Backdoor Erasing Plan for Trustworthy Federated Learning**'', The 25th IEEE International Conference on High Performance Computing and Communications, 2023. <!--**<font style="background: rgb(100, 200, 100)" color='white' size=2>AI/ML</font>** **<font style="background: #FF80BF" color='white' size=2>Security</font>**-->
 
 * Q. Mao, X. Lin, G. Li, L. Chen, Y. Liu, and J. Li, ''**Ensuring Minority Group Rights in Social IoT with Fairness-aware Federated Graph Node Classification**'', IEEE International Symposium on Parallel and Distributed Processing with Applications (ISPA), 2023. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**-->
