@@ -26,6 +26,8 @@
 
 ### PUBLICATIONS 
 ### <font color='#0000dd'>Year 2024</font>
+* H. Fu, G. Li, J. Wu, J. Li, K. Zhou, and Y. Liu, "**Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices**", Proc. of 31st International Conference on Neural Information Processing, to appear, 2024.
+
 * L. Lin, M. Chen, Z. Yang, Y. Wu, and Y. Liu, "**A Joint Gradient and Loss Based Clustered Federated Learning Design**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2024.
 
 * H. Yu, Y. Liu, and M. Chen, "**Joint Communication and Synchronization Performance Optimization in Digital Twin Enabled Networks**", Proc. of IEEE Global Communications Conference (GLOBECOM), to appear, 2024.
