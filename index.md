@@ -25,6 +25,11 @@
 * M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, "**On O-RAN Testbeds with Controlled Air Mobility**", arXiv preprint: arXiv:2301.11365, 2023. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**-->
 
 ### PUBLICATIONS 
+### <font color='#0000dd'>Year 2025</font>
+* D. Wu, Z. Peng, M. Chen, and Y. Liu, "**Transforming Network Intrusion Detection Using Large Language Models**", Proc. of IEEE Consumer Communications & Networking Conference (CCNC), to appear, 2025.
+
+* M. Mushi, Y. Liu, S. Sreenivasa, O. Ozdemir, I. Guvenc, M. Sichitiu, R. Dutta, and R. Gyurek, ''**Open RAN testbeds with controlled air mobility**'', Elsevier Computer Communications \[J\], to appear, 2025. 
+
 ### <font color='#0000dd'>Year 2024</font>
 * J. Liu, Z. Peng, D. Xu, and Y. Liu, "**Revolutionizing Wireless Modeling and Simulation with Network-Oriented LLMs**", Proc. of 43rd IEEE International Performance Computing and Communications Conference (IPCCC), to appear, 2024.
 
